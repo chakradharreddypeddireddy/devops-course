@@ -1,2 +1,2 @@
 nano file is a gnu text editor
-
+lib.dir = lib
